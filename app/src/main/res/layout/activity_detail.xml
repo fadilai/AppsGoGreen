@@ -122,6 +122,25 @@
                     android:textColor="@android:color/black"/>
             </TableRow>
 
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="14sp"
+                    android:layout_marginRight="16dp"
+                    android:text="Manfaat"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="14sp"
+                    android:layout_weight="1"
+                    android:text="Selain sebagai pohon peneduh, beringin juga memiliki nilai budaya di masyarakat kita. Pohon beringin kaya manfaat, daunnya dapat dijadikan sebagai bahan kuliner. Selain itu, daun beringin dapat dijadikan sebagai bahan obat tradisional dan diyakini dapat menyembuhkan berbagai penyakit."
+                    android:textColor="@android:color/black"/>
+            </TableRow>
+
         </TableLayout>
 
 
