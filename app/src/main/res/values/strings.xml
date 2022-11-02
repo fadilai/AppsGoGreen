@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppsGoGreen</string>
+    <string name="tumbuhan_name">Nama Tumbuhan</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Beringin</item>
+        <item>Kamboja</item>
+        <item>Jati</item>
+        <item>Binahong</item>
+        <item>Kumis Kucing</item>
+        <item>Waru</item>
+    </string-array>
+    <string name="beringin">Ficus benjamina</string>
+    <string name="kamboja">Plumeria</string>
+    <string name="jati">Tectona grandis</string>
+    <string name="binahong">Anredera cordifolia</string>
+    <string name="kumiskucinng">Orthosiphon aristatus</string>
+    <string name="waru">Hibiscus tiliaceus</string>
+    <string name="anggrek">Orchidaceae</string>
+    <string name="terati">Nymphaea</string>
+    <string name="jahe">AppsGoGreen</string>
+    <string name="lengkuas">AppsGoGreen</string>
+
+</resources>
